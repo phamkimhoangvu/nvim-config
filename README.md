@@ -1,6 +1,6 @@
 # nvim-config
 
-Personal Neovim setup (0.12) built while learning, aiming for a Zed-like feel.
+Personal Neovim setup (0.12) built while learning.
 
 ## Stack
 
@@ -22,7 +22,7 @@ Personal Neovim setup (0.12) built while learning, aiming for a Zed-like feel.
 
 ## Install
 
-    git clone git@github.com:YOUR_USERNAME/nvim-config.git ~/.config/nvim
+    git clone git@github.com:phamkimhoangvu/nvim-config.git ~/.config/nvim
     nvim
 
 lazy.nvim bootstraps itself and installs the plugins on first launch.
