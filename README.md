@@ -22,7 +22,7 @@ Personal Neovim setup (0.12) built while learning.
 
 ## Install
 
-    git clone git@github.com:phamkimhoangvu/nvim-config.git ~/.config/nvim
+    git clone https://github.com/phamkimhoangvu/nvim-config.git ~/.config/nvim
     nvim
 
 lazy.nvim bootstraps itself and installs the plugins on first launch.
