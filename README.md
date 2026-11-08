@@ -11,6 +11,7 @@ Personal Neovim setup (0.12) built while learning.
 - File tree: neo-tree
 - Syntax: nvim-treesitter (main branch)
 - Theme: Catppuccin mocha
+- Autopairs: nvim-autopairs
 
 ## Requirements
 
